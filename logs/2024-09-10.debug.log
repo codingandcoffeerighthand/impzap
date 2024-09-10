@@ -1,0 +1,5 @@
+2024-09-10T23:26:51.660+0700	DEBUG	This debug message will only appear in console
+2024-09-10T23:26:51.660+0700	DEBUG	This debug message will only appear in console
+2024-09-10T23:26:51.662+0700	INFO	This is an info log
+2024-09-10T23:26:51.662+0700	WARN	This warning will appear in console and error log
+2024-09-10T23:26:51.663+0700	ERROR	This is an error log
